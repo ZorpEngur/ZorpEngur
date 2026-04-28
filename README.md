@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://monkeytype.com/profile/ZorpEngur">
+    <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+
 <!--
 **ZorpEngur/ZorpEngur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
