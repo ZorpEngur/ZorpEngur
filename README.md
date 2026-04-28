@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://monkeytype.com/profile/ZorpEngur">
-    <img src="https://raw.githubusercontent.com/ZorpEngur/ZorpEngur/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    <img src="https://raw.githubusercontent.com/ZorpEngur/ZorpEngur/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
 
 <!--
