@@ -1,36 +1,36 @@
 name: generate monkeytype readme svg
 
 on:
-schedule:
+  schedule:
     - cron: "0 */6 * * *" # every 6 hours
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-download-svg:
+  download-svg:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
+      - name: Checkout code
         uses: actions/checkout@v6
 
-    - name: Set up Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
-        node-version: '16.x'
+          node-version: '16.x'
 
-    - name: Download SVG
+      - name: Download SVG
         run: |
-        mkdir public
-        curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light
-        curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light?lb=true
-        curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light?pb=true
-        curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light?lbpb=true
+          mkdir public
+          curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light
+          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light?lb=true
+          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light?pb=true
+          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/ZorpEngur/iceberg_light?lbpb=true
 
-    - name: push monkeytype-readme.svg to the monkeytype-readme branch
+      - name: push monkeytype-readme.svg to the monkeytype-readme branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-        target_branch: monkeytype-readme
-        build_dir: public
+          target_branch: monkeytype-readme
+          build_dir: public
         env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 
                     
