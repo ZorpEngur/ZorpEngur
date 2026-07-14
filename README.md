@@ -8,10 +8,10 @@
         <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/languages.svg" width="400"/>
       </a>
       <a href="https://monkeytype.com/profile/ZorpEngur">
-        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=10&timeValue=15" width="400"/>
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=nebula&wordValue=10&timeValue=15" width="400"/>
       </a>
       <a href="https://monkeytype.com/profile/ZorpEngur">
-        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=25&timeValue=30" width="400"/>
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=nebula&wordValue=25&timeValue=30" width="400"/>
       </a>
 </table>
 
