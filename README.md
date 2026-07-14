@@ -1,24 +1,18 @@
 ## Hi there 👋
 
 <table>
-  <tr>
-    <td>
-      <!-- <a href="https://monkeytype.com/profile/ZorpEngur"> -->
+      <a href="https://monkeytype.com/profile/ZorpEngur">
         <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=10&timeValue=15" />
-        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=25&timeValue=30" />
-        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=50&timeValue=60" />
-        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=100&timeValue=120" />
-      <!-- </a> -->
-    </td>
-    <td>
+      </a>
       <a href="https://github.com/rahul-jha98/github-stats-transparent">
         <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/overview.svg" />
-      </a><br/>
+      </a>
+      <a href="https://monkeytype.com/profile/ZorpEngur">
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=25&timeValue=30" />
+      </a>
       <a href="https://github.com/rahul-jha98/github-stats-transparent">
         <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/languages.svg" />
       </a>
-    </td>
-  </tr>
 </table>
 
 <!--
