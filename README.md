@@ -2,10 +2,10 @@
 
 <table>
       <a href="https://github.com/rahul-jha98/github-stats-transparent">
-        <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/overview.svg" />
+        <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/overview.svg" width="400"/>
       </a>
       <a href="https://github.com/rahul-jha98/github-stats-transparent">
-        <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/languages.svg" />
+        <img src="https://raw.githubusercontent.com/ZorpEngur/github-stats-transparent/output/generated/languages.svg" width="400"/>
       </a>
       <a href="https://monkeytype.com/profile/ZorpEngur">
         <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=10&timeValue=15" width="400"/>
