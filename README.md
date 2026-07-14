@@ -3,12 +3,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://monkeytype.com/profile/ZorpEngur">
+      <!-- <a href="https://monkeytype.com/profile/ZorpEngur"> -->
         <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=10&timeValue=15" />
         <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=25&timeValue=30" />
         <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=50&timeValue=60" />
         <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=100&timeValue=120" />
-      </a>
+      <!-- </a> -->
     </td>
     <td>
       <a href="https://github.com/rahul-jha98/github-stats-transparent">
