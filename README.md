@@ -4,7 +4,10 @@
   <tr>
     <td>
       <a href="https://monkeytype.com/profile/ZorpEngur">
-        <img src="https://raw.githubusercontent.com/ZorpEngur/ZorpEngur/monkeytype-readme/monkeytype-readme-pb.svg" />
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=10&timeValue=15" />
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=25&timeValue=30" />
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=50&timeValue=60" />
+        <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=ZorpEngur&theme=bushido&wordValue=100&timeValue=120" />
       </a>
     </td>
     <td>
